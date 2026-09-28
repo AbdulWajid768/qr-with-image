@@ -21,8 +21,8 @@
 
 <br/>
 
-<img src="https://gh-stats.work/api/pin/?username=AbdulWajid768&repo=qr-with-image&theme=neon&hide_border=true&bg_color=0a0a0f&title_color=ff006e&icon_color=00d4aa&text_color=e2e8f0&border_radius=12" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=AbdulWajid768&theme=neon&hide_border=true&background=0a0a0f&ring=ff006e&fire=00d4aa&currStreakLabel=ff006e&sideLabels=00d4aa&dates=e2e8f0&border_radius=12" width="48%"/>
+<img src="assets/stats-pin.svg" alt="Repo stats" width="48%"/>
+<img src="assets/stats-top-langs.svg" alt="Top languages" width="48%"/>
 
 <br/><br/>
 
@@ -114,7 +114,6 @@ qr-with-image --url "https://example.com" --logo ./logo.png -o out.png
   <img src="assets/github-activity-graph.svg" alt="Contribution activity graph" width="100%"/>
 </a>
 
-<sub>Auto-refreshed daily via GitHub Actions (replaces paused Vercel activity-graph API).</sub>
 
 <br/><br/>
 
@@ -123,7 +122,6 @@ qr-with-image --url "https://example.com" --logo ./logo.png -o out.png
 [![GitHub](https://img.shields.io/badge/@AbdulWajid768-181717?style=flat&logo=github)](https://github.com/AbdulWajid768)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wajid-amin/)
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AbdulWajid768/qr-with-image&count.shadow=false&label=NEURAL%20VIEWS&color=ff006e&labelColor=0f172a" alt="views"/>
 
 <sub>Encode the link · Imprint the brand.</sub>
 
