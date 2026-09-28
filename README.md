@@ -110,7 +110,11 @@ qr-with-image --url "https://example.com" --logo ./logo.png -o out.png
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWajid768&theme=neon&hide_border=true&bg_color=0a0a0f&color=ff006e&line=00d4aa&point=7c3aed&area=true&height=260" alt="Activity graph"/>
+<a href="https://github.com/AbdulWajid768">
+  <img src="assets/github-activity-graph.svg" alt="Contribution activity graph" width="100%"/>
+</a>
+
+<sub>Auto-refreshed daily via GitHub Actions (replaces paused Vercel activity-graph API).</sub>
 
 <br/><br/>
 
