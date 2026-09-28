@@ -1,65 +1,78 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ░▒▓  QR WITH IMAGE  ▓▒░                                        ║
-║  Branded QR codes · logo overlay · scannable by design           ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff006e,100:00d4aa&height=200&section=header&text=QR%20with%20Image&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Branded+matrix+%7C+logo+overlay+%7C+scan-optimized&descSize=15&descAlignY=72&descAlign=62"/>
 
-[![Python](https://img.shields.io/badge/Python-3.8+-00d4aa?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![QR](https://img.shields.io/badge/QR-ecosystem-111827?style=for-the-badge)](https://github.com/AbdulWajid768/qr-with-image)
-[![Status](https://img.shields.io/badge/Status-experimental-ff006e?style=for-the-badge)](https://github.com/AbdulWajid768/qr-with-image)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2900&pause=900&color=FF006E&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=92&lines=Encode+URLs+%2B+deep+links;Embed+logos+without+killing+scans;Error+correction+level+H;Experimental+%E2%80%94+core+landing+soon" alt="Typing animation"/>
+</a>
 
-**Generate QR codes that carry your brand—center logo, high error correction, still readable.**
+<br/>
 
-[Roadmap](#-roadmap) · [Concept](#-concept) · [Planned usage](#-planned-usage)
+### ⟡ Live telemetry ⟡
+
+[![GitHub stars](https://img.shields.io/github/stars/AbdulWajid768/qr-with-image?style=for-the-badge&logo=starship&logoColor=white&labelColor=0f172a&color=ff006e)](https://github.com/AbdulWajid768/qr-with-image/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AbdulWajid768/qr-with-image?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a&color=00d4aa)](https://github.com/AbdulWajid768/qr-with-image/network/members)
+[![Open issues](https://img.shields.io/github/issues/AbdulWajid768/qr-with-image?style=for-the-badge&logo=githubissues&logoColor=white&labelColor=0f172a&color=f472b6)](https://github.com/AbdulWajid768/qr-with-image/issues)
+[![Repo status](https://img.shields.io/badge/phase-genesis-ff006e?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f172a)](https://github.com/AbdulWajid768/qr-with-image)
+
+[![Last commit](https://img.shields.io/github/last-commit/AbdulWajid768/qr-with-image?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a&color=ff006e)](https://github.com/AbdulWajid768/qr-with-image/commits/main)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/AbdulWajid768/qr-with-image?style=for-the-badge&logo=pulse&logoColor=white&labelColor=0f172a&color=00d4aa)](https://github.com/AbdulWajid768/qr-with-image/graphs/commit-activity)
+[![Repo size](https://img.shields.io/github/repo-size/AbdulWajid768/qr-with-image?style=for-the-badge&logo=harddrive&logoColor=white&labelColor=0f172a&color=7c3aed)](https://github.com/AbdulWajid768/qr-with-image)
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWajid768&repo=qr-with-image&theme=neon&hide_border=true&bg_color=0a0a0f&title_color=ff006e&icon_color=00d4aa&text_color=e2e8f0&border_radius=12" width="48%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=AbdulWajid768&theme=neon&hide_border=true&background=0a0a0f&ring=ff006e&fire=00d4aa&currStreakLabel=ff006e&sideLabels=00d4aa&dates=e2e8f0&border_radius=12" width="48%"/>
+
+<br/><br/>
+
+[🧠 Concept](#-concept) · [🔮 Roadmap](#-roadmap) · [🛠 Planned API](#-planned-api)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,31,32&height=2&section=footer" width="100%"/>
 
 </div>
 
 ---
 
-## ◈ Signal
+## ◈ Transmission
 
-Flat QR codes work; **branded** QR codes get scanned. This project is the home for tooling that embeds a logo or icon inside a QR matrix while preserving decode reliability via elevated error correction (typically **QR version H**).
+Flat QR codes **function**. Branded QR codes **get scanned**. This repo is the launch pad for tooling that composites a **logo inside the matrix** while keeping cameras happy—high error correction, quiet-zone padding, and export paths for web + print.
 
-Repository is in **early setup**—implementation landing here next.
+```text
+        ╔═══════════════════════════╗
+        ║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
+        ║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
+        ║ ▓▓▓▓▓  ┌─────────┐  ▓▓▓▓▓ ║  ← logo island (EC level H)
+        ║ ▓▓▓▓▓  │  BRAND   │  ▓▓▓▓▓ ║
+        ║ ▓▓▓▓▓  └─────────┘  ▓▓▓▓▓ ║
+        ║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
+        ╚═══════════════════════════╝
+              payload → PNG / SVG
+```
+
+**Status:** experimental — implementation landing here next. Star the repo to ride the build log.
 
 ---
 
 ## ◈ Concept
 
-```text
-  Payload URL/text
-        │
-        ▼
-  QR matrix (high error correction)
-        │
-        ├── reserve center modules for logo "quiet zone"
-        ├── composite brand image (PNG/SVG)
-        └── export PNG / SVG / PDF
-        │
-        ▼
-  Scanner-friendly branded asset
-```
-
-| Design choice | Why |
+| Decision | Rationale |
 | --- | --- |
-| High error correction | Logo obscures data modules; redundancy keeps scans working |
-| Center placement + padding | Avoids alignment patterns; improves read rate |
-| Vector + raster export | Web, print, and slide decks |
+| Error correction **H** | Logo occludes modules; redundancy preserves decode |
+| Center logo + margin | Avoids alignment patterns; higher read success |
+| Raster + vector export | Web, merch, slides |
 
 ---
 
-## ◈ Planned usage
+## ◈ Planned API
 
 ```python
-# Target API (illustrative — coming soon)
+# Target surface (illustrative)
 
 from qr_with_image import generate
 
 generate(
-    data="https://mariashoaib.com",
+    data="https://example.com",
     logo_path="assets/logo.png",
     output="qr-branded.png",
     error_correction="H",
@@ -69,7 +82,6 @@ generate(
 ```
 
 ```bash
-# CLI (planned)
 qr-with-image --url "https://example.com" --logo ./logo.png -o out.png
 ```
 
@@ -79,29 +91,36 @@ qr-with-image --url "https://example.com" --logo ./logo.png -o out.png
 
 - [ ] Core generator (`qrcode` / `segno` + Pillow compositing)
 - [ ] CLI entrypoint
-- [ ] Configurable colors, margin, and logo scale
-- [ ] Batch generation from CSV
-- [ ] PyPI package publish
+- [ ] Colors, margin, logo scale controls
+- [ ] Batch mode (CSV → zip)
+- [ ] PyPI publish
 
 ---
 
-## ◈ Contributing
+<div align="center">
 
-Ideas and PRs welcome. Fork **[qr-with-image](https://github.com/AbdulWajid768/qr-with-image)**, open an issue for larger changes, and keep docs in sync.
+### ⟡ Watch momentum ⟡
 
----
+<a href="https://star-history.com/#AbdulWajid768/qr-with-image&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AbdulWajid768/qr-with-image&type=Date&theme=dark"/>
+    <img alt="Star history" src="https://api.star-history.com/svg?repos=AbdulWajid768/qr-with-image&type=Date"/>
+  </picture>
+</a>
 
-## ◈ Maintainer
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWajid768&theme=neon&hide_border=true&bg_color=0a0a0f&color=ff006e&line=00d4aa&point=7c3aed&area=true&height=260" alt="Activity graph"/>
+
+<br/><br/>
 
 **[Abdul Wajid](https://github.com/AbdulWajid768)** · Software Engineer · Lahore, PK
 
 [![GitHub](https://img.shields.io/badge/@AbdulWajid768-181717?style=flat&logo=github)](https://github.com/AbdulWajid768)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wajid-amin/)
 
----
+<img src="https://komarev.com/ghpvc/?username=AbdulWajid768-qr-with-image&label=NEURAL%20VIEWS&color=ff006e&style=for-the-badge" alt="views"/>
 
-<div align="center">
-
-<sub>Encode the link. Imprint the brand.</sub>
+<sub>Encode the link · Imprint the brand.</sub>
 
 </div>
